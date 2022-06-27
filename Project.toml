@@ -1,2 +1,5 @@
+[deps]
+EmpiricalDistributions = "0bbb1fad-0f24-45fe-94a4-415852c5cc3b"
+
 [compat]
 julia = "1.7"
